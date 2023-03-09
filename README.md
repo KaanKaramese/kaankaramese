@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan Karameşe</h1>
 <h3 align="center">A passionate frontend developer from Istanbul, Turkey.</h3>
 
-- 🔭 I’m currently working on **League of Legends Champion and Guide Website**
+- 🔭 I’m currently working on my **League of Legends Champion and Guide Website** project
 
 - 🌱 I’m currently learning **Redux**
 
